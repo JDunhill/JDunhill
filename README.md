@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Jack 👋
 
+I am an experienced Android developer with 2.5 years of experience in the TV industry, currently working with Sky Ltd. 
+
+My industry experience involves enterprise Kotlin and Java applications, AI integration and telemetry for millions of customers. In my spare time, I love making Kotlin multiplatform applications and tinkering with small neural networks, if I'm not trying to climb a mountain or painting said mountain.
 <!--
 **JDunhill/JDunhill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
